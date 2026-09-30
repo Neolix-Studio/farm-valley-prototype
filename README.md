@@ -38,5 +38,8 @@ project, download the *Tiny Wonder Farm (Free)* pack and place it in
 ## Credits
 
 Art: **Tiny Wonder Farm (Free)** pack, used under its own licence and not
-redistributed here. All code, the map generator and the game design are my own work,
-written with AI assistance.
+redistributed here.
+
+The game design and the gameplay scripts are my own work, written with AI as a tutor.
+The map generator in `tools/mapgen` was written by Claude Code to my specification —
+I decided what it had to produce and reviewed the output, but the Python is not mine.
