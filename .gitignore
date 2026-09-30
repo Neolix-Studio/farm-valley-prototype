@@ -1,0 +1,20 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# macOS
+.DS_Store
+
+# Python caches (tools/mapgen)
+__pycache__/
+*.pyc
+
+# Third-party art: free to use, but not redistributed here.
+# See README.md for where to download it.
+Assets/Tiny Wonder Farm Free/
+Assets/Tiny Wonder Farm Free.zip
+
+# Atlas repacked from the third-party art, and layout reference images
+Assets/tilesets/*.png
+Assets/tilesets/*.png.import
+References/
